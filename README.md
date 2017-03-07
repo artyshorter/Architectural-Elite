@@ -4,8 +4,7 @@ inline with the new website to reflect a more modern feel.
 
 # Getting Started
 To view this website, choose one of following pages to get started:
-
-        • index.html
+       • index.ht
 	• job.html
 	• post.html
 	• details.html

@@ -4,14 +4,14 @@ inline with the new website to reflect a more modern feel.
 
 # Getting Started
 To view this website, choose one of following pages to get started:
-        
+
         • index.html
-        
 	• job.html
 	• post.html
 	• details.html
 
 # Authors
+
 	• Aphilak Manomai - Southampton Solent University
 	
   

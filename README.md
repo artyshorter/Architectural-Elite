@@ -5,10 +5,10 @@ inline with the new website to reflect a more modern feel.
 # Getting Started
 To view this website, choose one of following pages to get started:
 
-[index.html](https://github.com/artyshorter/Architectural-Elite/blob/master/index.html)<br>
-[job.html](https://github.com/artyshorter/Architectural-Elite/blob/master/job.html)<br>
-[details.html](https://github.com/artyshorter/Architectural-Elite/blob/master/details.html)<br>
-[post.html](https://github.com/artyshorter/Architectural-Elite/blob/master/post.html)<br>
+[index.html](https://artyshorter.github.io/Architectural-Elite/)<br>
+[job.html](https://artyshorter.github.io/Architectural-Elite/job.html)<br>
+[details.html](https://artyshorter.github.io/Architectural-Elite/details.html)<br>
+[post.html](https://artyshorter.github.io/Architectural-Elite/post.html)<br>
 
 # Authors
 
